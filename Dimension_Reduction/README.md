@@ -1,7 +1,12 @@
 ### Dimension Reduction using fastRP, visualization using UMAP and t-SNE
 
-#### UMAP.ipynb
+#### [UMAP.ipynb]
 Embedding Visualization from umap
 
-#### tSNE.ipynb
+#### [tSNE.ipynb]
 Visualization using tSNE
+
+
+  [UMAP.ipynb]: UMAP.ipynb
+  
+  [tSNE.ipynb]: tSNE.ipynb
