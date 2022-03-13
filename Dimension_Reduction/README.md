@@ -9,4 +9,4 @@ Visualization using tSNE
 
   [UMAP.ipynb]: UMAP.ipynb
   
-  [tSNE.ipynb]: tSNE.ipynb
+  [tSNE.ipynb]: tSNEKG.ipynb
