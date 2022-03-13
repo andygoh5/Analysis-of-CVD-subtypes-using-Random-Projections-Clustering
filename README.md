@@ -8,6 +8,6 @@ Analysis of communities using Louvain and Pagerank
 Random Projection Node embeddings and visualization with UMAP, tSNE
 
 
-  [Community Detection]: /Community Detection/
+  [Community Detection]: /Community%20Detection/
   
   [Dimension_Reduction]: /Dimension_Reduction/
