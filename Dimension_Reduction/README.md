@@ -3,10 +3,10 @@
 #### [UMAP.ipynb]
 Embedding Visualization from umap
 
-#### [tSNE.ipynb]
+#### [tSNEKG.ipynb]
 Visualization using tSNE
 
 
   [UMAP.ipynb]: UMAP.ipynb
   
-  [tSNE.ipynb]: tSNEKG.ipynb
+  [tSNEKG.ipynb]: tSNEKG.ipynb
