@@ -1,9 +1,9 @@
-,Type,Name,pagerank
-286,MeSH,cardiomegaly,92.03616453919426
-290,Protein,Cardiac phospholamban,84.54173344774902
-291,Protein,Cardiac phospholamban,84.54173344774902
-289,Protein,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,83.4747501246235
-284,MeSH,diabetic cardiomyopathies,34.60822238901884
-292,Protein,A-kinase anchor protein 6,4.569544608259827
-293,Protein,Phosphofurin acidic cluster sorting protein 2,2.1246759689187504
-285,MeSH,22q11 deletion syndrome,1.6129818080919016
+,Type,Name,Betweenness
+286,MeSH,cardiomegaly,325985.3178512588
+289,Protein,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,301285.81900328305
+290,Protein,Cardiac phospholamban,223528.7299214885
+291,Protein,Cardiac phospholamban,223528.7299214885
+284,MeSH,diabetic cardiomyopathies,133951.9244804189
+292,Protein,A-kinase anchor protein 6,5679.478822059163
+293,Protein,Phosphofurin acidic cluster sorting protein 2,5238.999999999995
+285,MeSH,22q11 deletion syndrome,3495.0000000000045

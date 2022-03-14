@@ -1,50 +1,50 @@
-,Type,Name,pagerank
-0,Protein,Caveolin-1,60.91927953522409
-7,Protein,Caveolin-3,50.56511485997288
-13,Protein,Calmodulin,44.1809636064736
-4,Protein,Protein kinase C alpha type,40.97054902036916
-17,Protein,Tyrosine-protein kinase Fyn,26.82837546146485
-15,Protein,cAMP-dependent protein kinase catalytic subunit alpha,23.86043928976438
-11,Protein,Integrin beta-1,20.344934377149773
-2,Protein,Presenilin-2,19.78511911554214
-21,Protein,Ankyrin-2,17.70807993126556
-10,Protein,Sorcin,16.096834489128426
-1,Protein,Presenilin-1,14.12965123291634
-26,Protein,14-3-3 protein epsilon,13.3064698491311
-5,Protein,Peptidyl-prolyl cis-trans isomerase FKBP4,13.206684674237316
-31,Protein,Calcium/calmodulin-dependent protein kinase type II subunit delta,11.861820542706976
-3,Protein,Calcium-activated potassium channel subunit alpha-1,11.759231877287446
-8,Protein,Syntaxin-1A,11.49008248779808
-12,Protein,Stromal interaction molecule 1,11.226989484166136
-18,Protein,"Inositol 1,4,5-trisphosphate receptor type 1",9.948247441655226
-24,Protein,"Inositol 1,4,5-trisphosphate receptor type 2",9.191832269883744
-23,Protein,Alpha-actinin-2,7.4837953471973115
-9,Protein,Short transient receptor potential channel 4,7.467556279693655
-750,MeSH,williams syndrome,7.226003004713562
-19,Protein,Peptidyl-prolyl cis-trans isomerase FKBP1A,6.914458737155938
-747,MeSH,sick sinus syndrome,6.103282138725748
-25,Protein,Alpha-actinin-1,5.97427648802571
-14,Protein,Transient receptor potential cation channel subfamily M member 2,5.766361977680459
-16,Protein,Glutathione S-transferase omega-1,5.651042121716239
-32,Protein,Serine/threonine-protein kinase Sgk1,5.422651387390869
-34,Protein,Sodium/calcium exchanger 1,5.410896345485368
-20,Protein,Plasma membrane calcium-transporting ATPase 4,4.107131374007027
-33,Protein,Protein diaphanous homolog 1,4.002229050388669
-27,Protein,Voltage-dependent L-type calcium channel subunit beta-2,3.931264926395135
-6,Protein,"Glutamate receptor ionotropic, NMDA 2C",2.7459253522175895
-35,Protein,Voltage-dependent L-type calcium channel subunit alpha-1C,2.7113100859176362
-30,Protein,Voltage-dependent L-type calcium channel subunit beta-1,2.5698730632341107
-37,Protein,Calcium release-activated calcium channel protein 1,2.321996091958554
-36,Protein,Potassium channel subfamily K member 3,2.2650768274438056
-22,Protein,Neurexin-1,1.7648248523871088
-28,Protein,Galanin receptor type 2,1.3545414980542252
-29,Protein,Calmodulin-2,1.3193924365254535
-38,Protein,Sarcoplasmic reticulum histidine-rich calcium-binding protein,1.2978364348162474
-41,Protein,"Calcium uniporter protein, mitochondrial",1.1451733297664153
-39,Protein,Chloride intracellular channel protein 2,1.044744575789927
-40,Protein,Voltage-dependent T-type calcium channel subunit alpha-1G,1.0384502943353846
-746,MeSH,kearns-sayre syndrome,0.9375513664106648
-748,MeSH,andersen syndrome,0.7781519299992615
-42,Protein,Protein kinase C and casein kinase substrate in neurons protein 3,0.5520365478904548
-749,MeSH,trisomy 13 syndrome,0.4865275127800338
-43,Protein,Calcium channel voltage-dependent subunit beta 1,0.4420386218305439
+,Type,Name,Betweenness
+0,Protein,Caveolin-1,361549.51055294287
+13,Protein,Calmodulin,330785.1091377994
+7,Protein,Caveolin-3,254823.55665337903
+4,Protein,Protein kinase C alpha type,236724.11099836894
+17,Protein,Tyrosine-protein kinase Fyn,152734.8590096163
+15,Protein,cAMP-dependent protein kinase catalytic subunit alpha,132374.47335184552
+11,Protein,Integrin beta-1,115284.54122818339
+2,Protein,Presenilin-2,103909.9560165142
+8,Protein,Syntaxin-1A,98298.3602651432
+10,Protein,Sorcin,89870.27233052578
+1,Protein,Presenilin-1,71473.06878327698
+5,Protein,Peptidyl-prolyl cis-trans isomerase FKBP4,70411.4014954066
+3,Protein,Calcium-activated potassium channel subunit alpha-1,64370.76145306808
+12,Protein,Stromal interaction molecule 1,63375.13449425954
+26,Protein,14-3-3 protein epsilon,58706.21770097627
+9,Protein,Short transient receptor potential channel 4,40334.03139899866
+31,Protein,Calcium/calmodulin-dependent protein kinase type II subunit delta,39191.72212569446
+21,Protein,Ankyrin-2,35746.800545010294
+23,Protein,Alpha-actinin-2,32078.826205966623
+18,Protein,"Inositol 1,4,5-trisphosphate receptor type 1",29713.150121911654
+16,Protein,Glutathione S-transferase omega-1,29087.401952992706
+750,MeSH,williams syndrome,28522.09315084368
+747,MeSH,sick sinus syndrome,27160.853479052716
+14,Protein,Transient receptor potential cation channel subfamily M member 2,26659.900921177028
+19,Protein,Peptidyl-prolyl cis-trans isomerase FKBP1A,25781.189659591088
+34,Protein,Sodium/calcium exchanger 1,24555.93390343479
+32,Protein,Serine/threonine-protein kinase Sgk1,23579.27899134507
+24,Protein,"Inositol 1,4,5-trisphosphate receptor type 2",22330.61543426477
+25,Protein,Alpha-actinin-1,21684.500571026896
+20,Protein,Plasma membrane calcium-transporting ATPase 4,17427.00123298296
+27,Protein,Voltage-dependent L-type calcium channel subunit beta-2,12562.963308396358
+36,Protein,Potassium channel subfamily K member 3,10576.969008312457
+33,Protein,Protein diaphanous homolog 1,9394.829261981864
+30,Protein,Voltage-dependent L-type calcium channel subunit beta-1,8735.848218450445
+35,Protein,Voltage-dependent L-type calcium channel subunit alpha-1C,6762.349328271606
+6,Protein,"Glutamate receptor ionotropic, NMDA 2C",5938.809151264743
+22,Protein,Neurexin-1,5677.834848253162
+29,Protein,Calmodulin-2,5042.093883556052
+38,Protein,Sarcoplasmic reticulum histidine-rich calcium-binding protein,4741.708438933859
+41,Protein,"Calcium uniporter protein, mitochondrial",4734.0
+28,Protein,Galanin receptor type 2,3125.2150277745213
+37,Protein,Calcium release-activated calcium channel protein 1,2606.470340638843
+748,MeSH,andersen syndrome,2368.000000000001
+746,MeSH,kearns-sayre syndrome,2367.9999999999995
+40,Protein,Voltage-dependent T-type calcium channel subunit alpha-1G,288.16684266819243
+39,Protein,Chloride intracellular channel protein 2,217.60917589810148
+42,Protein,Protein kinase C and casein kinase substrate in neurons protein 3,0.5
+43,Protein,Calcium channel voltage-dependent subunit beta 1,0.0
+749,MeSH,trisomy 13 syndrome,0.0

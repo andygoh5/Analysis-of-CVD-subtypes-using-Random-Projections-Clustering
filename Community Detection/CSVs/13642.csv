@@ -1,6 +1,6 @@
-,Type,Name,pagerank
-732,MeSH,myocardial reperfusion injury,143.93777419268127
-0,Protein,"Nitric oxide synthase, brain",88.24509907566896
-1,Protein,78 kDa glucose-regulated protein,49.60570000913721
-2,Protein,Sodium/hydrogen exchanger 1,44.83840326434567
-3,Protein,Voltage-dependent anion-selective channel protein 1,8.092542417817974
+,Type,Name,Betweenness
+732,MeSH,myocardial reperfusion injury,474956.64105156413
+0,Protein,"Nitric oxide synthase, brain",236136.00000000003
+1,Protein,78 kDa glucose-regulated protein,143117.14970930212
+2,Protein,Sodium/hydrogen exchanger 1,113762.2092391307
+3,Protein,Voltage-dependent anion-selective channel protein 1,22450.0

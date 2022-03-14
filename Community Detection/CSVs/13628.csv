@@ -1,9 +1,9 @@
-,Type,Name,pagerank
-8,MeSH,cardiomyopathies,131.56086050901476
-13,Protein,Dystrophin,117.14615155523543
-9,MeSH,"cardiomyopathy, dilated",88.11518108025265
-11,MeSH,sarcoglycanopathies,6.214103879466617
-10,MeSH,glycogen storage disease type iib,2.260272201308994
-14,Protein,Selenoprotein N,2.0663850128382237
-12,MeSH,barth syndrome,2.033905818914788
-15,Protein,Chloride intracellular channel protein 4,1.0142600708609808
+,Type,Name,Betweenness
+8,MeSH,cardiomyopathies,341929.8179174499
+13,Protein,Dystrophin,320870.7453640975
+9,MeSH,"cardiomyopathy, dilated",179902.9655577338
+12,MeSH,barth syndrome,4787.980796653006
+14,Protein,Selenoprotein N,4735.000000000003
+11,MeSH,sarcoglycanopathies,1893.6555615516816
+10,MeSH,glycogen storage disease type iib,1623.009979306975
+15,Protein,Chloride intracellular channel protein 4,106.82482320668642

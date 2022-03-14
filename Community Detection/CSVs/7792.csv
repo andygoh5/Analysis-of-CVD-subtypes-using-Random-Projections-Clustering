@@ -1,5 +1,5 @@
-,Type,Name,pagerank
-59,Protein,Polycystin-1,33.44699136369629
-60,Protein,Polycystin-2,27.18008049205073
-58,Protein,P2X purinoceptor 3,23.726587214697116
-53,MeSH,digeorge syndrome,9.14646113568655
+,Type,Name,Betweenness
+1,Protein,Polycystin-1,22294.666666666657
+0,Protein,P2X purinoceptor 3,19239.10000000001
+2,Protein,Polycystin-2,16153.963768115895
+206,MeSH,digeorge syndrome,7878.269565217387

@@ -1,22 +1,22 @@
-,Type,Name,pagerank
-0,Protein,Extracellular calcium-sensing receptor,163.62588792651647
-971,MeSH,myocarditis,86.45036833467209
-984,MeSH,heart arrest,52.61259002287962
-974,MeSH,bradycardia,26.01398596045905
-979,MeSH,tachycardia,23.880777847413185
-985,MeSH,out-of-hospital cardiac arrest,23.652903175765985
-988,MeSH,takotsubo cardiomyopathy,13.38694438654721
-983,MeSH,"shock, cardiogenic",11.027393516959988
-982,MeSH,tricuspid valve insufficiency,10.941459976160262
-1,Protein,Dopamine D2 receptor,8.940420574189588
-986,MeSH,heart rupture,7.213570186490864
-980,MeSH,"foramen ovale, patent",3.220094182896776
-975,MeSH,"cardiac complexes, premature",2.9318107608324384
-987,MeSH,ventricular septal rupture,2.2097026983814154
-989,MeSH,"pericarditis, tuberculous",1.0047555041873577
-978,MeSH,sinoatrial block,0.9361334143105381
-981,MeSH,tricuspid valve prolapse,0.9196835770064113
-973,MeSH,"sinus arrest, cardiac",0.5277489564683937
-976,MeSH,commotio cordis,0.5277489564683937
-977,MeSH,adams-stokes syndrome,0.5277489564683937
-972,MeSH,"dyspnea, paroxysmal",0.5277489564683937
+,Type,Name,Betweenness
+0,Protein,Extracellular calcium-sensing receptor,769592.9166453583
+971,MeSH,myocarditis,321953.5688809623
+984,MeSH,heart arrest,201243.80849964955
+979,MeSH,tachycardia,97183.98024315522
+974,MeSH,bradycardia,93289.8829556168
+985,MeSH,out-of-hospital cardiac arrest,66526.68796342974
+988,MeSH,takotsubo cardiomyopathy,51013.999999999956
+983,MeSH,"shock, cardiogenic",37282.653599878715
+1,Protein,Dopamine D2 receptor,32097.620441387706
+982,MeSH,tricuspid valve insufficiency,24009.412429378517
+986,MeSH,heart rupture,22009.139579450093
+980,MeSH,"foramen ovale, patent",10655.094418299843
+975,MeSH,"cardiac complexes, premature",9921.234343434358
+987,MeSH,ventricular septal rupture,3975.9999999999945
+981,MeSH,tricuspid valve prolapse,1986.0000000000014
+978,MeSH,sinoatrial block,1985.9999999999995
+989,MeSH,"pericarditis, tuberculous",1985.999999999997
+972,MeSH,"dyspnea, paroxysmal",0.0
+977,MeSH,adams-stokes syndrome,0.0
+976,MeSH,commotio cordis,0.0
+973,MeSH,"sinus arrest, cardiac",0.0

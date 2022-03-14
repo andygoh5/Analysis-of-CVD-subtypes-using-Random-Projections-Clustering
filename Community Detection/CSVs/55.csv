@@ -1,26 +1,26 @@
-,Type,Name,pagerank
-147,Protein,Ryanodine receptor 2,128.94799135519887
-132,MeSH,"tachycardia, ventricular",77.61513030850452
-136,MeSH,"death, sudden, cardiac",56.70058993185359
-130,MeSH,long qt syndrome,35.468294246958166
-148,Protein,Kv channel-interacting protein 2,31.6342255270046
-134,MeSH,ventricular fibrillation,30.9574616900037
-149,Protein,Triadin,21.843049350165973
-146,Protein,Ryanodine receptor 1,20.111405734755213
-152,Protein,Calsequestrin-2,16.77911932659115
-137,MeSH,ventricular dysfunction,15.873695085815068
-125,MeSH,arrhythmogenic right ventricular dysplasia,15.23355396260624
-127,MeSH,brugada syndrome,13.998109640977146
-129,MeSH,atrioventricular block,10.805275978001124
-150,Protein,Sodium channel protein type 5 subunit alpha,9.353921436707097
-128,MeSH,ventricular premature complexes,7.2140802091174665
-135,MeSH,cardiac conduction system disease,5.711209013375927
-151,Protein,Transient receptor potential cation channel subfamily M member 4,4.664710681973024
-154,Protein,Carboxyl-terminal PDZ ligand of neuronal nitric oxide synthase protein,4.578762673384103
-133,MeSH,torsades de pointes,4.500987603613293
-153,Protein,Peptidyl-prolyl cis-trans isomerase FKBP1B,2.6395724511061873
-126,MeSH,isolated noncompaction of the ventricular myocardium,2.3589441539410045
-131,MeSH,romano-ward syndrome,1.2551700606398317
-156,Protein,Protein tweety homolog 3,1.2259339090507975
-157,Protein,Voltage-dependent L-type calcium channel subunit alpha,1.024406430274773
-155,Protein,Junctophilin-1,0.8344665283010938
+,Type,Name,Betweenness
+1,Protein,Ryanodine receptor 2,753557.456598374
+1162,MeSH,"tachycardia, ventricular",293131.8217671034
+1166,MeSH,"death, sudden, cardiac",233859.9324364093
+1160,MeSH,long qt syndrome,183415.53430689877
+2,Protein,Kv channel-interacting protein 2,154797.14583303258
+1164,MeSH,ventricular fibrillation,146445.05065768777
+3,Protein,Triadin,90878.81044878277
+1167,MeSH,ventricular dysfunction,79186.27786411553
+0,Protein,Ryanodine receptor 1,70960.07423567434
+1157,MeSH,brugada syndrome,69315.46854476623
+1159,MeSH,atrioventricular block,56520.15693570119
+6,Protein,Calsequestrin-2,50391.04162686167
+1155,MeSH,arrhythmogenic right ventricular dysplasia,50016.252674561765
+4,Protein,Sodium channel protein type 5 subunit alpha,30230.177092196907
+1158,MeSH,ventricular premature complexes,20338.01885374869
+5,Protein,Transient receptor potential cation channel subfamily M member 4,20279.03991683227
+1165,MeSH,cardiac conduction system disease,11772.203809661534
+1163,MeSH,torsades de pointes,11705.58902795325
+1156,MeSH,isolated noncompaction of the ventricular myocardium,7069.173566665259
+8,Protein,Carboxyl-terminal PDZ ligand of neuronal nitric oxide synthase protein,4405.087902870908
+7,Protein,Peptidyl-prolyl cis-trans isomerase FKBP1B,2657.2168655622304
+1161,MeSH,romano-ward syndrome,2409.677456605985
+9,Protein,Junctophilin-1,2347.9999999999986
+10,Protein,Protein tweety homolog 3,272.6206504179708
+11,Protein,Voltage-dependent L-type calcium channel subunit alpha,40.17092751664361

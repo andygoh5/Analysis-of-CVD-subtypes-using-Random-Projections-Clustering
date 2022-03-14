@@ -1,17 +1,17 @@
-,Type,Name,pagerank
-0,Protein,Matrix metalloproteinase-9,246.43703229623807
-1587,MeSH,coronary artery disease,175.68342596318467
-1585,MeSH,coronary disease,112.80426066683178
-1,Protein,Proprotein convertase subtilisin/kexin type 9,56.8845195205433
-2,Protein,Serum paraoxonase/arylesterase 1,20.594157507543763
-1589,MeSH,coronary restenosis,20.064837335888118
-1588,MeSH,coronary stenosis,20.03366556223429
-1583,MeSH,"angina, stable",12.979703353364812
-1581,MeSH,marfan syndrome,12.836118032881158
-1579,MeSH,endomyocardial fibrosis,12.789849494932414
-1586,MeSH,coronary aneurysm,7.611424842599619
-1590,MeSH,"heart rupture, post-infarction",5.619948212528411
-1578,MeSH,"cardiomyopathy, alcoholic",1.2153321606123175
-1582,MeSH,"angina pectoris, variant",1.1715144994460782
-1584,MeSH,microvascular angina,1.142525809204055
-1580,MeSH,pre-excitation syndromes,0.4619924441527575
+,Type,Name,Betweenness
+757,Protein,Matrix metalloproteinase-9,1603193.7714584572
+743,MeSH,coronary artery disease,1130461.0615054332
+741,MeSH,coronary disease,739583.3148110718
+758,Protein,Proprotein convertase subtilisin/kexin type 9,256472.68631703532
+744,MeSH,coronary stenosis,108538.80056566838
+759,Protein,Serum paraoxonase/arylesterase 1,95730.1761973601
+745,MeSH,coronary restenosis,92060.35899422616
+735,MeSH,endomyocardial fibrosis,64190.047216922634
+737,MeSH,marfan syndrome,48060.0
+739,MeSH,"angina, stable",43014.732213922565
+742,MeSH,coronary aneurysm,35462.91490064671
+746,MeSH,"heart rupture, post-infarction",12870.999999999998
+740,MeSH,microvascular angina,4294.411225095088
+738,MeSH,"angina pectoris, variant",3207.72459415856
+734,MeSH,"cardiomyopathy, alcoholic",3198.999999999999
+736,MeSH,pre-excitation syndromes,0.0
