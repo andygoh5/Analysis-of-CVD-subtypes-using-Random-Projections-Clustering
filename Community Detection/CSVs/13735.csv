@@ -1,59 +1,59 @@
-,Type,Name
-2,Protein,Voltage-dependent P/Q-type calcium channel subunit alpha-1A
-47,Protein,Natriuretic peptides A
-60,Protein,Myc box-dependent-interacting protein 1
-61,Protein,Junctophilin-2
-13637,MeSH,endocardial fibroelastosis
-13645,MeSH,heart failure
-13656,MeSH,atrial flutter
-13663,MeSH,heart block
-13666,MeSH,bundle-branch block
-13671,MeSH,jervell-lange nielsen syndrome
-13679,MeSH,"tachycardia, paroxysmal"
-13680,MeSH,"tachycardia, reciprocating"
-13683,MeSH,"tachycardia, supraventricular"
-13692,MeSH,"heart defects, congenital"
-13695,MeSH,aortic coarctation
-13698,MeSH,bicuspid aortic valve disease
-13699,MeSH,cor triatriatum
-13700,MeSH,coronary vessel anomalies
-13705,MeSH,dextrocardia
-13706,MeSH,kartagener syndrome
-13707,MeSH,"ductus arteriosus, patent"
-13708,MeSH,ebstein anomaly
-13709,MeSH,eisenmenger complex
-13710,MeSH,heart septal defects
-13712,MeSH,"truncus arteriosus, persistent"
-13713,MeSH,endocardial cushion defects
-13714,MeSH,"heart septal defects, atrial"
-13717,MeSH,"heart septal defects, ventricular"
-13718,MeSH,double outlet right ventricle
-13719,MeSH,heterotaxy syndrome
-13720,MeSH,hypoplastic left heart syndrome
-13721,MeSH,leopard syndrome
-13722,MeSH,levocardia
-13724,MeSH,noonan syndrome
-13726,MeSH,tetralogy of fallot
-13727,MeSH,transposition of great vessels
-13728,MeSH,congenitally corrected transposition of the great arteries
-13729,MeSH,tricuspid atresia
-13733,MeSH,turner syndrome
-13735,MeSH,heart valve diseases
-13737,MeSH,aortic valve insufficiency
-13739,MeSH,aortic valve stenosis
-13740,MeSH,"aortic stenosis, subvalvular"
-13742,MeSH,"aortic stenosis, supravalvular"
-13745,MeSH,mitral valve prolapse
-13747,MeSH,mitral valve insufficiency
-13748,MeSH,mitral valve stenosis
-13749,MeSH,pulmonary atresia
-13750,MeSH,pulmonary valve insufficiency
-13751,MeSH,pulmonary valve stenosis
-13752,MeSH,pulmonary subvalvular stenosis
-13754,MeSH,tricuspid valve stenosis
-13770,MeSH,coronary-subclavian steal syndrome
-13779,MeSH,ventricular outflow obstruction
-13783,MeSH,endocarditis
-13784,MeSH,"endocarditis, bacterial"
-13798,MeSH,heart neoplasms
-13802,MeSH,"pericarditis, constrictive"
+,Type,Name,pagerank
+0,Protein,Voltage-dependent P/Q-type calcium channel subunit alpha-1A,241.26787311074304
+1752,MeSH,heart failure,153.4090138596904
+1760,MeSH,"heart defects, congenital",77.22918782682324
+1786,MeSH,heart valve diseases,37.119356188139534
+1788,MeSH,aortic valve stenosis,35.785324260630865
+1792,MeSH,mitral valve insufficiency,20.94071272089555
+1,Protein,Natriuretic peptides A,18.466802178551124
+3,Protein,Junctophilin-2,16.77684684986005
+1753,MeSH,atrial flutter,12.930998640939988
+1773,MeSH,"heart septal defects, atrial",11.868931265268309
+1803,MeSH,heart neoplasms,11.83550328932424
+1754,MeSH,heart block,11.40456000658726
+1774,MeSH,"heart septal defects, ventricular",11.101714863176817
+1787,MeSH,aortic valve insufficiency,10.117592714143822
+1781,MeSH,tetralogy of fallot,10.042688800872067
+1802,MeSH,"endocarditis, bacterial",8.566601273108812
+1755,MeSH,bundle-branch block,8.060088820230032
+1762,MeSH,bicuspid aortic valve disease,7.679254148658074
+1793,MeSH,mitral valve stenosis,6.727079362758827
+1759,MeSH,"tachycardia, supraventricular",5.828564878131286
+1761,MeSH,aortic coarctation,5.558846512097741
+1801,MeSH,endocarditis,5.226413305315385
+1791,MeSH,mitral valve prolapse,5.066448654701755
+2,Protein,Myc box-dependent-interacting protein 1,4.974561558650486
+1767,MeSH,"ductus arteriosus, patent",4.908440836020847
+1782,MeSH,transposition of great vessels,4.896389574007471
+1764,MeSH,coronary vessel anomalies,4.850872354388613
+1785,MeSH,turner syndrome,4.61492961072474
+1777,MeSH,hypoplastic left heart syndrome,4.269010823474106
+1770,MeSH,heart septal defects,3.7900656852078685
+1780,MeSH,noonan syndrome,3.644159072554349
+1796,MeSH,pulmonary valve stenosis,3.6417269755995387
+1800,MeSH,ventricular outflow obstruction,3.4343771696605745
+1766,MeSH,kartagener syndrome,2.344973993172713
+1776,MeSH,heterotaxy syndrome,1.9752357497416508
+1775,MeSH,double outlet right ventricle,1.9163855810134391
+1790,MeSH,"aortic stenosis, supravalvular",1.9018059251723876
+1768,MeSH,ebstein anomaly,1.795767262351003
+1769,MeSH,eisenmenger complex,1.6367319881702367
+1765,MeSH,dextrocardia,1.3872648241070835
+1757,MeSH,"tachycardia, paroxysmal",1.328253649115569
+1804,MeSH,"pericarditis, constrictive",1.286776176800426
+1784,MeSH,tricuspid atresia,1.0961973303935473
+1794,MeSH,pulmonary atresia,1.083723009256167
+1795,MeSH,pulmonary valve insufficiency,1.0696102778682568
+1763,MeSH,cor triatriatum,1.0337212433089413
+1798,MeSH,tricuspid valve stenosis,1.0034909031276225
+1756,MeSH,jervell-lange nielsen syndrome,0.9528840718424646
+1771,MeSH,"truncus arteriosus, persistent",0.7334511746243477
+1778,MeSH,leopard syndrome,0.6917932903968741
+1789,MeSH,"aortic stenosis, subvalvular",0.6800123327289517
+1772,MeSH,endocardial cushion defects,0.6556896832215372
+1751,MeSH,endocardial fibroelastosis,0.620518081247297
+1783,MeSH,congenitally corrected transposition of the great arteries,0.5885673441671857
+1799,MeSH,coronary-subclavian steal syndrome,0.47417787113268206
+1758,MeSH,"tachycardia, reciprocating",0.4109632086616785
+1797,MeSH,pulmonary subvalvular stenosis,0.38865172979711166
+1779,MeSH,levocardia,0.37555076033224627

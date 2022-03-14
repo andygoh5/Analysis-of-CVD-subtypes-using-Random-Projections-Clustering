@@ -1,12 +1,12 @@
-,Type,Name
-0,Protein,Amyloid beta A4 protein
-85,Protein,Alpha-1-syntrophin
-86,Protein,Potassium voltage-gated channel subfamily A member 5
-95,Protein,Beta-2-syntrophin
-13652,MeSH,"arrhythmia, sinus"
-13655,MeSH,atrial fibrillation
-13660,MeSH,atrial premature complexes
-13667,MeSH,interatrial block
-13684,MeSH,"tachycardia, ectopic atrial"
-13732,MeSH,trisomy 18 syndrome
-13771,MeSH,kounis syndrome
+,Type,Name,pagerank
+639,MeSH,atrial fibrillation,167.84113509522783
+0,Protein,Amyloid beta A4 protein,116.11749000244174
+638,MeSH,"arrhythmia, sinus",3.61246861481448
+642,MeSH,"tachycardia, ectopic atrial",2.8920798109128807
+640,MeSH,atrial premature complexes,2.5477106976262838
+2,Protein,Potassium voltage-gated channel subfamily A member 5,2.200611956987191
+644,MeSH,kounis syndrome,1.0428574992267488
+641,MeSH,interatrial block,1.0373184497621906
+1,Protein,Alpha-1-syntrophin,1.0329627843985663
+643,MeSH,trisomy 18 syndrome,0.5517442927734694
+3,Protein,Beta-2-syntrophin,0.5370371269350644

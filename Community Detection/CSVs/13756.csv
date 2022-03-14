@@ -1,19 +1,19 @@
-,Type,Name
-10,Protein,"Troponin I, cardiac muscle"
-13633,MeSH,"cardiomyopathy, hypertrophic, familial"
-13634,MeSH,"cardiomyopathy, restrictive"
-13691,MeSH,ventricular flutter
-13703,MeSH,myocardial bridging
-13755,MeSH,myocardial ischemia
-13756,MeSH,acute coronary syndrome
-13757,MeSH,angina pectoris
-13758,MeSH,"angina, unstable"
-13765,MeSH,coronary occlusion
-13768,MeSH,coronary thrombosis
-13769,MeSH,coronary vasospasm
-13772,MeSH,myocardial infarction
-13773,MeSH,anterior wall myocardial infarction
-13774,MeSH,inferior wall myocardial infarction
-13775,MeSH,non-st elevated myocardial infarction
-13777,MeSH,st elevation myocardial infarction
-13801,MeSH,pericarditis
+,Type,Name,pagerank
+1022,Protein,"Troponin I, cardiac muscle",343.3889244517715
+1016,MeSH,myocardial infarction,250.84052157384235
+1009,MeSH,myocardial ischemia,93.06826269186237
+1010,MeSH,acute coronary syndrome,85.3982971093276
+1012,MeSH,"angina, unstable",33.963138054085164
+1020,MeSH,st elevation myocardial infarction,28.389644811856687
+1011,MeSH,angina pectoris,24.590873416046776
+1013,MeSH,coronary occlusion,10.923132771421452
+1005,MeSH,"cardiomyopathy, hypertrophic, familial",10.1849432640476
+1014,MeSH,coronary thrombosis,8.054034350175288
+1006,MeSH,"cardiomyopathy, restrictive",7.152561902547831
+1019,MeSH,non-st elevated myocardial infarction,7.05338226850457
+1021,MeSH,pericarditis,4.877229075281338
+1017,MeSH,anterior wall myocardial infarction,2.5432553168769294
+1015,MeSH,coronary vasospasm,2.2112810554541453
+1008,MeSH,myocardial bridging,0.6227719029469172
+1018,MeSH,inferior wall myocardial infarction,0.5805695324395338
+1007,MeSH,ventricular flutter,0.45273922294800634

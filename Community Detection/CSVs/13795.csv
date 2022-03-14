@@ -1,11 +1,13 @@
-,Type,Name
-19,Protein,Calcium and integrin-binding protein 1
-13648,MeSH,"edema, cardiac"
-13677,MeSH,wolff-parkinson-white syndrome
-13686,MeSH,"tachycardia, sinus"
-13738,MeSH,aortic valve prolapse
-13781,MeSH,"hypertrophy, left ventricular"
-13782,MeSH,"hypertrophy, right ventricular"
-13795,MeSH,"ventricular dysfunction, left"
-13797,MeSH,"ventricular dysfunction, right"
-13800,MeSH,carney complex
+,Type,Name,pagerank
+383,MeSH,"ventricular dysfunction, left",105.5278477332604
+381,MeSH,"hypertrophy, left ventricular",66.91927789994229
+384,MeSH,"ventricular dysfunction, right",28.41263682926471
+382,MeSH,"hypertrophy, right ventricular",25.23016158806722
+386,Protein,Calcium and integrin-binding protein 1,19.606175565174926
+376,MeSH,"heart failure, diastolic",8.596832916312065
+377,MeSH,"heart failure, systolic",7.46807334046165
+375,MeSH,"edema, cardiac",5.41382394693245
+379,MeSH,"tachycardia, sinus",1.9586884291273707
+378,MeSH,wolff-parkinson-white syndrome,1.8756613434876226
+380,MeSH,aortic valve prolapse,0.5503378008897261
+385,MeSH,carney complex,0.5494737265603816

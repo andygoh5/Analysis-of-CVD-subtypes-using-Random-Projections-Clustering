@@ -1,9 +1,9 @@
-,Type,Name
-22,Protein,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2
-24,Protein,Cardiac phospholamban
-26,Protein,Cardiac phospholamban
-76,Protein,A-kinase anchor protein 6
-78,Protein,Phosphofurin acidic cluster sorting protein 2
-13636,MeSH,diabetic cardiomyopathies
-13693,MeSH,22q11 deletion syndrome
-13780,MeSH,cardiomegaly
+,Type,Name,pagerank
+286,MeSH,cardiomegaly,92.03616453919426
+290,Protein,Cardiac phospholamban,84.54173344774902
+291,Protein,Cardiac phospholamban,84.54173344774902
+289,Protein,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,83.4747501246235
+284,MeSH,diabetic cardiomyopathies,34.60822238901884
+292,Protein,A-kinase anchor protein 6,4.569544608259827
+293,Protein,Phosphofurin acidic cluster sorting protein 2,2.1246759689187504
+285,MeSH,22q11 deletion syndrome,1.6129818080919016

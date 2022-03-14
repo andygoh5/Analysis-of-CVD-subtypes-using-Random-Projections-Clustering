@@ -1,18 +1,26 @@
-,Type,Name
-17,Protein,Ryanodine receptor 1
-18,Protein,Ryanodine receptor 2
-50,Protein,Triadin
-51,Protein,Sodium channel protein type 5 subunit alpha
-59,Protein,Calsequestrin-2
-79,Protein,Carboxyl-terminal PDZ ligand of neuronal nitric oxide synthase protein
-91,Protein,Junctophilin-1
-13629,MeSH,arrhythmogenic right ventricular dysplasia
-13638,MeSH,isolated noncompaction of the ventricular myocardium
-13661,MeSH,ventricular premature complexes
-13669,MeSH,long qt syndrome
-13672,MeSH,romano-ward syndrome
-13687,MeSH,"tachycardia, ventricular"
-13689,MeSH,torsades de pointes
-13690,MeSH,ventricular fibrillation
-13788,MeSH,"death, sudden, cardiac"
-13794,MeSH,ventricular dysfunction
+,Type,Name,pagerank
+147,Protein,Ryanodine receptor 2,128.94799135519887
+132,MeSH,"tachycardia, ventricular",77.61513030850452
+136,MeSH,"death, sudden, cardiac",56.70058993185359
+130,MeSH,long qt syndrome,35.468294246958166
+148,Protein,Kv channel-interacting protein 2,31.6342255270046
+134,MeSH,ventricular fibrillation,30.9574616900037
+149,Protein,Triadin,21.843049350165973
+146,Protein,Ryanodine receptor 1,20.111405734755213
+152,Protein,Calsequestrin-2,16.77911932659115
+137,MeSH,ventricular dysfunction,15.873695085815068
+125,MeSH,arrhythmogenic right ventricular dysplasia,15.23355396260624
+127,MeSH,brugada syndrome,13.998109640977146
+129,MeSH,atrioventricular block,10.805275978001124
+150,Protein,Sodium channel protein type 5 subunit alpha,9.353921436707097
+128,MeSH,ventricular premature complexes,7.2140802091174665
+135,MeSH,cardiac conduction system disease,5.711209013375927
+151,Protein,Transient receptor potential cation channel subfamily M member 4,4.664710681973024
+154,Protein,Carboxyl-terminal PDZ ligand of neuronal nitric oxide synthase protein,4.578762673384103
+133,MeSH,torsades de pointes,4.500987603613293
+153,Protein,Peptidyl-prolyl cis-trans isomerase FKBP1B,2.6395724511061873
+126,MeSH,isolated noncompaction of the ventricular myocardium,2.3589441539410045
+131,MeSH,romano-ward syndrome,1.2551700606398317
+156,Protein,Protein tweety homolog 3,1.2259339090507975
+157,Protein,Voltage-dependent L-type calcium channel subunit alpha,1.024406430274773
+155,Protein,Junctophilin-1,0.8344665283010938
