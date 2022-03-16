@@ -1,4 +1,4 @@
-### Dimension Reduction using fastRP, visualization using UMAP and t-SNE
+### Dimension Reduction using fastRP, visualization using UMAP and t-SNE, K-means Clustering
 
 #### [UMAP.ipynb]
 Embedding Visualization from umap
