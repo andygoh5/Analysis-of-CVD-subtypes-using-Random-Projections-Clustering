@@ -7,7 +7,7 @@ Author: Andy Goh
 Analysis of communities using Louvain and Pagerank
 
 ### [Dimension_Reduction]
-#####Author: Irsyad Adam
+##### Author: Irsyad Adam
 Random Projection Node embeddings and visualization with UMAP, tSNE
 
 
