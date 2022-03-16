@@ -1,7 +1,6 @@
 # Network-Analysis-with-Neo4j
 Analysis of Knowledge Graph using graph algorithms in Neo4j
 
-Author: Andy Goh
 ### [Community Detection]
 ##### Author: Andy Goh
 Analysis of communities using Louvain and Pagerank
