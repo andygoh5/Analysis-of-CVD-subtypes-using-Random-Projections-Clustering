@@ -3,10 +3,11 @@ Analysis of Knowledge Graph using graph algorithms in Neo4j
 
 Author: Andy Goh
 ### [Community Detection]
+##### Author: Andy Goh
 Analysis of communities using Louvain and Pagerank
 
-Author: Irsyad Adam
 ### [Dimension_Reduction]
+#####Author: Irsyad Adam
 Random Projection Node embeddings and visualization with UMAP, tSNE
 
 
