@@ -1,7 +1,7 @@
 # Network-Analysis-with-Neo4j
 Analysis of Knowledge Graph using graph algorithms in Neo4j
 
-### [Degree Distribution and Betweenness Centrality]
+### [Degree_Betweenness]
 ##### Author: Ethan Young
 Analysis and visualization of degree distribution and betweenness centrality
 
