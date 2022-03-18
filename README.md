@@ -13,7 +13,7 @@ Analysis of communities using Louvain and Pagerank
 ##### Author: Irsyad Adam
 Common Neighbors; Random Projection Node embeddings and visualization with UMAP, tSNE
 
-  [Degree_Betweenness]: Degree_betweenness.ipynb
+  [Degree_Betweenness]: Degree_Betweenness.ipynb
   
   [Community Detection]: /Community%20Detection/
   
