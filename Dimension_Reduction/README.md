@@ -4,7 +4,7 @@
 Embedding Visualization from umap
 
 #### [tSNEKG.ipynb]
-Visualization using tSNE
+Visualization using tSNE, clustering using KMeans and visualization in seaborn
 
 
   [UMAP.ipynb]: UMAP.ipynb
