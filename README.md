@@ -47,7 +47,7 @@ Code to upload network in Neo4j
 
 ### [Community Detection]
 ##### Author: Andy Goh
-Analysis of communities using Louvain and Pagerank
+Analysis of communities using Louvain and Betweenness
 
 ### [Dimension_Reduction]
 ##### Author: Irsyad Adam
