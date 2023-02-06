@@ -1,5 +1,5 @@
 # Network-Analysis-with-Neo4j
-Analysis of Knowledge Graph using graph algorithms in Neo4j
+Analysis of Knowledge Graph using graph algorithms in Neo4j. See the [Project Report](Project%20Report.pdf) for a complete and thorough overview.
 
 ## How to run the project
 
